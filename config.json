@@ -1,4 +1,4 @@
 {
- "base_url": "http://45.90.99.172:3041"
+  "base_url": "http://lontelau:9090",
+  "ws_url": "ws://lontelau:9090"
 }
-
