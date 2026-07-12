@@ -1,4 +1,4 @@
 {
-  "base_url": "http://45.90.99.172:3041",
-  "ws_url": "ws://45.90.99.172:3041"
+  "base_url": "https://api.rat.satxz.biz.id",
+  "ws_url": "ws://api.rat.satxz.biz.id"
 }
