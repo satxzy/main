@@ -1,4 +1,4 @@
 {
-  "base_url": "http://38.49.212.111:1703",
-  "ws_url": "ws://38.49.212.111:1703"
+  "base_url": "https://example.com",
+  "ws_url": "ws://example.com"
 }
