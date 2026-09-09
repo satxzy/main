@@ -1,4 +1,4 @@
 {
-  "base_url": "https://villain.satxzy.cloud",
-  "ws_url": "ws://villain.satxzy.cloud"
+  "base_url": "http://213.163.198.15:3000",
+  "ws_url": "ws://213.163.198.15:3000"
 }
